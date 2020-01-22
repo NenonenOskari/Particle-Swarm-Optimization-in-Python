@@ -4,7 +4,12 @@ In this project I implements the Particle Swarm Optimization algorithm using the
 
 `pip install pyswarms`
 
-This project contains three visualisations of the algorithm working its magic. There are two files, on for 2D animations and one for 3D. Different files also optimize different functions. The Animations folder contains a couple of videos for easy viewing here. Here is PSO with a sphere functions in 2D: 
+This project contains three visualisations of the algorithm working its magic. There are two files, on for 2D animations and one for 3D. Different files also optimize different functions. Here is PSO with a sphere functions in 2D: 
 
-![3D](https://github.com/NenonenOskari/Particle-Swarm-Optimization-in-Python/blob/master/Animations/3dPSO.mp4?raw=true)
-![Alt Text](url)
+![2D](https://streamable.com/25gez)
+
+And here is PSO with a Schaffer 2 function in 3D
+
+![3D](https://streamable.com/rq8i6)
+
+By Oskari Nenonen
