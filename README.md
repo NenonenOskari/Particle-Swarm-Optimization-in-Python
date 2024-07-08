@@ -1,6 +1,6 @@
 # Particle-Swarm-Optimization-in-Python
 
-In this project I implements the Particle Swarm Optimization algorithm using the pyswarms library that can be found here: https://github.com/ljvmiranda921/pyswarms and installed as
+In this project I implement the Particle Swarm Optimization algorithm using the pyswarms library that can be found here: https://github.com/ljvmiranda921/pyswarms and installed as
 
 `pip install pyswarms`
 
